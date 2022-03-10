@@ -13,7 +13,7 @@ export const CONFIG = {
     "timeseries_chart": true,
 
     // 5. (Optional) Set your banner image
-    "banner_picture": "https://www.superflexfitness.com/wp-content/uploads/2017/03/3D-banner-background.jpg",
+    "banner_picture": "https://lh3.googleusercontent.com/-ubNtaUKJcUMwYKg5oMYxT1jUqT2LfPYmZOD3GIi6ZiFFbAQ0UytyJy6t9IVB0w3sbsMlRXMgu2Wjhtt1FXtrygJ=w600",
   },
 
   // These options just for your reference
