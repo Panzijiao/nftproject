@@ -7,7 +7,7 @@ export const CONFIG = {
     "block_chain_id": "1",
 
     // 3. Set the default title of your dashboard. If found, this template uses the NFT Collection name for the title.
-    "title": "Axie Infinity",
+    "title": "AxieInfinity",
 
     // 4. (Optional) Display the floor price chart
     "timeseries_chart": true,
